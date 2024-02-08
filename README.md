@@ -26,3 +26,8 @@ La letra "u" es convertida para "ufat"
 
 </p>
 <p>No se permiten acentos ni caracteres especiales</p>
+  <br>
+  <br>
+<a>@OraceleNextEducattion</a>
+<br>
+<a>@AluraLatan</a>
