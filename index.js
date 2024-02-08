@@ -20,7 +20,7 @@ codificar.addEventListener("click", () => {
     cajaImagen.classList.toggle("ocultar");
     cajaContenedor.classList.toggle("mostrar");
   } else {
-    alert("verifique o limpie las cacillas");
+    alert("!! verifique o limpie las cacillas");
   }
 });
 //descodificar
@@ -30,7 +30,7 @@ descodificar.addEventListener("click", () => {
     cajaImagen.classList.toggle("ocultar");
     cajaContenedor.classList.toggle("mostrar");
   } else {
-    alert("verifique o  limpie las cacillas");
+    alert("!! verifique o  limpie las cacillas");
   }
 });
 //copiar
