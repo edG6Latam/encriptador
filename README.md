@@ -28,6 +28,7 @@ La letra "u" es convertida para "ufat"
 <p>No se permiten acentos ni caracteres especiales</p>
   <br>
   <br>
-<a src="https://www.aluracursos.com/">@OraceleNextEducattion</a>
-<br>
-<a src="https://www.oracle.com/mx/education/oracle-next-education/">@AluraLatan</a>
+
+* [@AluraLatam](https://www.aluracursos.com/) - ALURA
+* [@OracleNextEducation]([https://maven.apache.org/](https://www.oracle.com/mx/education/oracle-next-education/)) - ORACLE
+
