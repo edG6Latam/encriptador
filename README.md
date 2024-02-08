@@ -28,6 +28,6 @@ La letra "u" es convertida para "ufat"
 <p>No se permiten acentos ni caracteres especiales</p>
   <br>
   <br>
-<a>@OraceleNextEducattion</a>
+<a src="https://www.aluracursos.com/">@OraceleNextEducattion</a>
 <br>
-<a>@AluraLatan</a>
+<a src="https://www.oracle.com/mx/education/oracle-next-education/">@AluraLatan</a>
