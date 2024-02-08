@@ -30,5 +30,5 @@ La letra "u" es convertida para "ufat"
   <br>
 
 * [@AluraLatam](https://www.aluracursos.com/) - ALURA
-* [@OracleNextEducation]([https://maven.apache.org/](https://www.oracle.com/mx/education/oracle-next-education/)) - ORACLE
+* [@OracleNextEducation](https://www.oracle.com/mx/education/oracle-next-education/) - ORACLE
 
