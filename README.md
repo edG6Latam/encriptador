@@ -14,9 +14,16 @@ La letra "u" es convertida para "ufat"
 <br>
 <h3>Funciones</h3>
 <p>Tenemos dentro de la app web 3 funciones 
+  <br>
 Encriptar
+  <br>
 Desencriptar
+  <br>
 Limpiar
+ <br>
+
 Copiar 
+  <br>
+
 </p>
 <p>No se permiten acentos ni caracteres especiales</p>
